@@ -9,7 +9,7 @@
 	<key>descender</key>
 	<integer>0</integer>
 	<key>familyName</key>
-	<string>Last Resort High-Efficiency</string>
+	<string>Last Resort Private High-Efficiency</string>
 	<key>italicAngle</key>
 	<integer>0</integer>
 	<key>openTypeHeadCreated</key>
@@ -24,7 +24,7 @@
 	<array>
 	</array>
 	<key>postscriptFontName</key>
-	<string>LastResortHE-Regular</string>
+	<string>LastResortPrivateHE-Regular</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
